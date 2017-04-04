@@ -16,7 +16,7 @@ function makeIceCream($type) {
     $description = 'Vanilla ice cream is a soft frozen dessert made with vanilla bean extract, milk, and cream.';
   } else if ($type == 'chocolate') {
     $valid = true;
-    $description = 'Chocolate ice cream is a soft frozen dessert made with coco powder, milk and cream.';
+    $description = 'Chocolate ice cream is a soft frozen dessert made with coco powder, sweetened milk and cream.';
   } else if ($type == 'strawberry') {
     $valid = true;
     $description = 'Strawberry ice cream is a soft frozen dessert made with blended strawberries or flavoring, milk and cream.';
