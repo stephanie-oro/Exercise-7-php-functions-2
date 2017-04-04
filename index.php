@@ -19,7 +19,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Functional Ice Cream</title>
+    <title>Functional Ice Cream.</title>
     <link rel="stylesheet" href="css/bootstrap.css">
   </head>
   <body class="bg-faded">

@@ -41,7 +41,7 @@ function makeIceCream($type) {
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
-        <p class="m-0"><strong>'.capfirst($type).'? Gross!</strong> Enter something good next time.</p>
+        <p class="m-0"><strong>'.capfirst($type).'?  </strong> That is not a popular ice cream flavor.</p>
       </div>
     ');
   }
